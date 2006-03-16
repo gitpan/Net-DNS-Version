@@ -1,0 +1,24 @@
+Net-DNS-Version version 0.01
+============================
+
+This module permit to grab DNS server version.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module no requires other modules or libraries.
+
+COPYRIGHT AND LICENCE
+
+You may distribute this module under the terms of the Artistic license.
+See Copying file in the source distribution archive.
+
+Copyright (c) 2006, Matteo Cantoni
